@@ -1,1 +1,1 @@
-# Somador-Subtrator---L-gica-Digital
+# Somador Subtrator
